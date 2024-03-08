@@ -1,0 +1,6 @@
+# Ignore virtual environment directory
+fastapienv/
+
+# Ignore Python compiled bytecode files
+__pycache__/
+*.pyc
